@@ -1,0 +1,4 @@
+﻿  Problem 50.cpp
+C:\Solving Problem levle 3\Problem 50\Problem 50\Problem 50.cpp(28,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Solving Problem levle 3\Problem 50\Problem 50\Problem 50.cpp(197,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  Problem 50.vcxproj -> C:\Solving Problem levle 3\Problem 50\x64\Debug\Problem 50.exe

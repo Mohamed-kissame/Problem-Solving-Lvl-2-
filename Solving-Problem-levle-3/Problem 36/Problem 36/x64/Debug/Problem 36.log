@@ -1,0 +1,3 @@
+﻿  Problem 36.cpp
+C:\Solving Problem levle 3\Problem 36\Problem 36\Problem 36.cpp(24,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Problem 36.vcxproj -> C:\Solving Problem levle 3\Problem 36\x64\Debug\Problem 36.exe

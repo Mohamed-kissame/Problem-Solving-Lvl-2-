@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Solving Problem levle 3\\Problem 42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1DF856-05E7-43A2-AF82-4BB82D97B396}|Problem 42\\Problem 42.vcxproj|C:\\Solving Problem levle 3\\Problem 42\\Problem 42\\Problem 42.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B1DF856-05E7-43A2-AF82-4BB82D97B396}|Problem 42\\Problem 42.vcxproj|solutionrelative:Problem 42\\Problem 42.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 42.cpp",
+              "DocumentMoniker": "C:\\Solving Problem levle 3\\Problem 42\\Problem 42\\Problem 42.cpp",
+              "RelativeDocumentMoniker": "Problem 42\\Problem 42.cpp",
+              "ToolTip": "C:\\Solving Problem levle 3\\Problem 42\\Problem 42\\Problem 42.cpp",
+              "RelativeToolTip": "Problem 42\\Problem 42.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T14:43:26.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
